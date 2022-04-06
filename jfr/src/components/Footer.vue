@@ -1,4 +1,9 @@
 <template>
+  <div>
+    <p>
+      Keks
+    </p>
+  </div>
 </template>
 
 <script>
